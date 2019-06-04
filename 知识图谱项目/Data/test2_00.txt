@@ -1,0 +1,1 @@
+rowkey	之惑青青草原沙漠防治技术  The Myth of China's prevention of desertification	authors:喜羊羊_XI Yangyang,1	厦门大学,null	inf:abstracts	喜羊羊是国产动画片《喜羊羊与灰太狼》系列中的主角，并在《十万个冷笑话2》和《嫁人就嫁灰太狼》中友情客串。他由祖晴（国语）和曾佩仪（粤语）配音.	inf:fundsproject	 	inf:indexs	PKU,CSSCI	inf:isFilter	false	inf:keywords	中国法(理)学,中国法学学,科学,问题化,主义与问题	inf:paperID	01377302	inf:publishinghouse	河北羊学	inf:sortnumber	DF0 	inf:time	2011 29(8)

@@ -1,0 +1,1 @@
+rowkey	喜羊羊->青青草原办公室	basicInf:nameEN	XI Yang-yang	basicInf:orgMessage	青青草原,401231	basicInf:personID	010	basicInf:personID2	010	basicInf:人才类型	科技人才	paper:01430532	4_一草原沙漠化防治  Prevent desertification
