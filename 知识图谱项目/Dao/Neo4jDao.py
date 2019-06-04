@@ -196,14 +196,14 @@ if __name__ == '__main__':
     node1 = dao.createNode(label='Person',
                             properties={'name': 'lwf', 'living': 'xi an', 'home': '福建', 'favor singer': '周杰伦'})
     # node2 = dao.createNode(label='Person',
-    #                        properties={'name': 'tzl', 'living': 'xi an', 'home': 'shan xi', 'favor singer': 'LJJ'})
+    #                        properties={'name': 'asjdioasjd', 'living': 'xi an', 'home': 'shan xi', 'favor singer': 'LJJ'})
     node3 = dao.createNode(label='Movie', properties={'name': "复仇者联盟4：Eng Game"})
-    # relation = dao.createRelationship(start_node=node1, end_node=node2, relation_type='love')
-    # relation2 = dao.createRelationship(start_node=node1, end_node=node2, relation_type='kiss')
-    # relation3 = dao.createRelationship(start_node=node2, end_node=node1, relation_type='love')
+    # relation = dao.createRelationship(start_node=node1, end_node=node2, relation_type='add')
+    # relation2 = dao.createRelationship(start_node=node1, end_node=node2, relation_type='sub')
+    # relation3 = dao.createRelationship(start_node=node2, end_node=node1, relation_type='add')
     relation4 = dao.createRelationship(start_node=node1, end_node=node3, relation_type='观看')
-    # print(dao.findOneRelationship(r_type='kiss'))
-    # print(dao.findAllRelationship(r_type='kiss'))
+    # print(dao.findOneRelationship(r_type='sub'))
+    # print(dao.findAllRelationship(r_type='sub'))
     # print(dao.findOneRelationship(nodes=[node1], r_type='watch'))
     # print(dao.findAllRelationship(nodes=[node1]))
     #
